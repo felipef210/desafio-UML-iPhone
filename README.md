@@ -4,4 +4,4 @@ Esse desafio de projeto visa por em prática alguns dos conceitos vistos de nas 
 
 Além disso é feita a criaçao de uma UML para faciliar o desenvolvimento e a visualização do que é pedido.
 
-![Diagrama do Projeto](UML.png)
+![Diagrama do Projeto](UML.PNG)
